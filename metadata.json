@@ -1,0 +1,5 @@
+{
+  "name": "Central Health Monitor",
+  "description": "A dashboard for monitoring Revit Central File health, tracking file sizes, and detecting improper usage patterns with AI-assisted optimization tips.",
+  "requestFramePermissions": []
+}
